@@ -1,2 +1,3 @@
-Gastric cancer features.rar: In this paper, the two-dimensional expression profile composed of the feature values of multi-dimensional markers
+Gastric cancer features.rar: In this paper, the two-dimensional expression profile composed of the feature values of multi-dimensional markers.
+
 scr.tar.gz：Analysis process from raw data analysis, feature extraction and model building.
